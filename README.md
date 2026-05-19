@@ -1,8 +1,8 @@
 # Dashboard Medical Insurance Cost
 
-**Nama:** Muharromi Ali Ilham
-**NIM:** F1D02410082
-**Kelas:** C
+Nama: Muharromi Ali Ilham
+NIM: F1D02410082
+Kelas: C
 
 ## Deskripsi
 
